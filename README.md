@@ -18,7 +18,7 @@
     This work is coding the layout using HTML, CSS. The layout consists of a header, main part and a futer. The header includes a company logo and
     a sign in button. The main part includes brief information about the courses and a list of interesting articles on the selected topic. The
     footer contains links to social networks such as facebook, instagram and telegram and a support button. You can use this layout as an
-    sadvertisement of your courses.
+    advertisement of your courses.
 
 
 ## Click edition
